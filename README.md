@@ -1,4 +1,4 @@
-  AI 答题应用 自述
+哇来答 AI 答题应用 自述
   
 基于Springboot +Redis +ChatGLM +Rxjava +SSE(VUE3 +Arco +piain)的Ai智能答题应用平台
 
