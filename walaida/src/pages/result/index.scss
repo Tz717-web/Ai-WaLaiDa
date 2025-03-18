@@ -1,0 +1,44 @@
+.index{
+    background-color: #07a5ee;
+    height: 1000px;
+    padding-top: 30px;
+   
+}
+.btn{
+    margin-top: 50px;
+    border-radius: 20px;
+    width: 300px;
+    height: 80px;
+    background-color: #a57ee4;
+    color: white;
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+    line-height: 80px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+.at-article__info{
+    //居中
+    text-align: center;
+    background-color: hsl(0, 0%, 100%);
+    font-size: 20px;
+    color: #494848;
+    margin-top: 100px;
+}
+.at-article__h1{
+
+    text-align: center;
+    font-size: 50px;
+    color:white;
+    margin-top: 10px;
+    font-weight: 600;
+
+}
+.at-article__h2{
+    font-size: 30px;
+    text-align: center;
+    color: #16191e;
+    margin-top: 20px;
+    font-weight: 550;
+}

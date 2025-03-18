@@ -1,0 +1,305 @@
+[
+    {
+        "options": [
+            {
+                "result": "I",
+                "value": "独自工作",
+                "key": "A"
+            },
+            {
+                "result": "E",
+                "value": "与他人合作",
+                "key": "B"
+            }
+        ],
+        "title": "你通常更喜欢"
+    },
+    {
+        "options": [
+            {
+                "result": "J",
+                "value": "喜欢有明确的计划",
+                "key": "A"
+            },
+            {
+                "result": "P",
+                "value": "更愿意随机应变",
+                "key": "B"
+            }
+        ],
+        "title": "当安排活动时"
+    },
+    {
+        "options": [
+            {
+                "result": "T",
+                "value": "认为应该严格遵守",
+                "key": "A"
+            },
+            {
+                "result": "F",
+                "value": "认为应灵活运用",
+                "key": "B"
+            }
+        ],
+        "title": "你如何看待规则"
+    },
+    {
+        "options": [
+            {
+                "result": "E",
+                "value": "经常是说话的人",
+                "key": "A"
+            },
+            {
+                "result": "I",
+                "value": "更倾向于倾听",
+                "key": "B"
+            }
+        ],
+        "title": "在社交场合中"
+    },
+    {
+        "options": [
+            {
+                "result": "J",
+                "value": "先研究再行动",
+                "key": "A"
+            },
+            {
+                "result": "P",
+                "value": "边做边学习",
+                "key": "B"
+            }
+        ],
+        "title": "面对新的挑战"
+    },
+    {
+        "options": [
+            {
+                "result": "S",
+                "value": "注重细节和事实",
+                "key": "A"
+            },
+            {
+                "result": "N",
+                "value": "注重概念和想象",
+                "key": "B"
+            }
+        ],
+        "title": "在日常生活中"
+    },
+    {
+        "options": [
+            {
+                "result": "T",
+                "value": "更多基于逻辑分析",
+                "key": "A"
+            },
+            {
+                "result": "F",
+                "value": "更多基于个人情感",
+                "key": "B"
+            }
+        ],
+        "title": "做决定时"
+    },
+    {
+        "options": [
+            {
+                "result": "S",
+                "value": "喜欢有结构和常规",
+                "key": "A"
+            },
+            {
+                "result": "N",
+                "value": "喜欢自由和灵活性",
+                "key": "B"
+            }
+        ],
+        "title": "对于日常安排"
+    },
+    {
+        "options": [
+            {
+                "result": "P",
+                "value": "首先考虑可能性",
+                "key": "A"
+            },
+            {
+                "result": "J",
+                "value": "首先考虑后果",
+                "key": "B"
+            }
+        ],
+        "title": "当遇到问题时"
+    },
+    {
+        "options": [
+            {
+                "result": "T",
+                "value": "时间是一种宝贵的资源",
+                "key": "A"
+            },
+            {
+                "result": "F",
+                "value": "时间是相对灵活的概念",
+                "key": "B"
+            }
+        ],
+        "title": "你如何看待时间"
+    },
+    
+    {
+        "options": [
+            {
+                "result": "I",
+                "value": "喜欢独处和思考",
+                "key": "A"
+            },
+            {
+                "result": "E",
+                "value": "喜欢社交和互动",
+                "key": "B"
+            }
+        ],
+        "title": "在空闲时间里"
+    },
+    {
+        "options": [
+            {
+                "result": "J",
+                "value": "计划每一项任务",
+                "key": "A"
+            },
+            {
+                "result": "P",
+                "value": "随兴所至地完成任务",
+                "key": "B"
+            }
+        ],
+        "title": "你的工作方式"
+    },
+    {
+        "options": [
+            {
+                "result": "T",
+                "value": "坚持原则和标准",
+                "key": "A"
+            },
+            {
+                "result": "F",
+                "value": "根据情况调整原则",
+                "key": "B"
+            }
+        ],
+        "title": "处理日常决策时"
+    },
+    {
+        "options": [
+            {
+                "result": "E",
+                "value": "影响和领导他人",
+                "key": "A"
+            },
+            {
+                "result": "I",
+                "value": "支持和鼓励他人",
+                "key": "B"
+            }
+        ],
+        "title": "在团队中的角色"
+    },
+    {
+        "options": [
+            {
+                "result": "J",
+                "value": "通过分析和研究做决定",
+                "key": "A"
+            },
+            {
+                "result": "P",
+                "value": "通过直觉和灵感做决定",
+                "key": "B"
+            }
+        ],
+        "title": "面对重大决策"
+    },
+    {
+        "options": [
+            {
+                "result": "S",
+                "value": "专注于现实和事实",
+                "key": "A"
+            },
+            {
+                "result": "N",
+                "value": "思考未来和可能性",
+                "key": "B"
+            }
+        ],
+        "title": "你的思维方式"
+    },
+    {
+        "options": [
+            {
+                "result": "T",
+                "value": "重视客观真理和逻辑",
+                "key": "A"
+            },
+            {
+                "result": "F",
+                "value": "重视个人价值观和和谐",
+                "key": "B"
+            }
+        ],
+        "title": "你的价值观"
+    },
+    {
+        "options": [
+            {
+                "result": "S",
+                "value": "喜欢具体的细节和步骤",
+                "key": "A"
+            },
+            {
+                "result": "N",
+                "value": "喜欢抽象的概念和理论",
+                "key": "B"
+            }
+        ],
+        "title": "学习新知识时"
+    },
+    {
+        "options": [
+            {
+                "result": "P",
+                "value": "探索多种可能性",
+                "key": "A"
+            },
+            {
+                "result": "J",
+                "value": "专注于一个目标",
+                "key": "B"
+            }
+        ],
+        "title": "设定目标时"
+    },
+    {
+        "options": [
+            {
+                "result": "T",
+                "value": "制定详细的时间表",
+                "key": "A"
+            },
+            {
+                "result": "F",
+                "value": "适应不断变化的情况",
+                "key": "B"
+            }
+        ],
+        "title": "管理时间的方式"
+    }
+
+
+]
